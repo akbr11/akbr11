@@ -1,8 +1,8 @@
 Hi 👋, I'm <a href="https://github.com/akbr11">Muhammad Akbar Nugraha </a> From Indonesia 🇮🇩 <br>
 <br>
-💻 I’m currently working As **Web Developer**
+💻 I’m currently working As **Frontend & Backend Web Developer**
 <br>
-🌱 I’m currently learning **CodeIgniter 4, React JS**
+🌱 I’m currently learning **React JS, Node JS**
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbr11&show_icons=true&locale=en&layout=compact" alt="akbr11" /></p>

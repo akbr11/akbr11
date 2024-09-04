@@ -1,6 +1,6 @@
 Hi 👋, I'm <a href="https://akbr11.github.io/portfolio-web/">Muhammad Akbar Nugraha </a> From Indonesia 🇮🇩 <br>
 <br>
-💻 I’m currently working As **Frontend & Backend Web Developer**
+💻 I’m currently working As **Frontend Web Developer & Backend Developer**
 <br>
 🌱 I’m currently learning **React JS, Node JS**
 <br>
